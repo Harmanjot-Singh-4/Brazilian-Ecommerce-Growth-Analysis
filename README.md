@@ -48,5 +48,5 @@ Expansion: Target digital ads in Northern states where logistics speed is alread
 
 Dataset
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Brazilian E-Commerce Public Dataset by Olist on Kaggle.com
+Brazilian E-Commerce Public Dataset by Olist on Kaggle.com ( Link - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce )
 
