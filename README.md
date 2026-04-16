@@ -46,3 +46,7 @@ Repeat Purchase Challenge: Identified a 3.12% Repeat Purchase Rate, highlighting
 
 Expansion: Target digital ads in Northern states where logistics speed is already a competitive advantage.
 
+Dataset
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Brazilian E-Commerce Public Dataset by Olist on Kaggle.com
+
