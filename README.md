@@ -1,4 +1,4 @@
-# 🇧🇷 Brazilian E-Commerce Growth Pipeline & Logistics Optimization
+# Brazilian E-Commerce Growth Pipeline & Logistics Optimization
 ### Exploratory Data Analysis (EDA), Supply Chain Operations Modeling, and Customer Retention Analytics
 
 ## 🎯 Project Objective
